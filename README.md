@@ -1,2 +1,2 @@
 # CoffeeShopp-Website
-My first Vue App ( Coffee Shop Website )
+A Vue App ( Coffee Shop Website )
